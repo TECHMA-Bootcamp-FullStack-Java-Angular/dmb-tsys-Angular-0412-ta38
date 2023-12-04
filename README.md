@@ -8,18 +8,18 @@
                              
 This repository contains the Bootcamp tasks 👨‍💻
 
+<div align="center"><img width="80%"  src="https://github.com/TECHMA-Bootcamp-FullStack-Java-Angular/dmb-tsys-Angular-0412-ta38/tree/main/src/assets/captura.png?raw=trueg"  alt="Imagen Ejercicio" /></div>
 
-[Click here to see the exercise](https://techma-bootcamp-fullstack-java-angular.github.io/dmb-tsys-Angular-0412-ta38/dist/dmb-tsys-angular-0412-ta38/browser/index.html)
 
 ## Rules of use 🤜🏼🤛🏼
 
 - Run the clone repository in your terminal:
 
-`git clone https://github.com/TECHMA-Bootcamp-FullStack-Java-Angular/dmb-tsys-TS-3011-ta38.1`
+`git clone https://github.com/TECHMA-Bootcamp-FullStack-Java-Angular/dmb-tsys-Angular-0412-ta38`
 
 - Access the folder with the command:
 
-`cd dmb-tsys-TS-3011-ta38.1`
+`cd dmb-tsys-Angular-0412-ta38`
 
 - Open the repository with your IDE
 
