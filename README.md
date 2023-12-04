@@ -8,8 +8,7 @@
                              
 This repository contains the Bootcamp tasks 👨‍💻
 
-<div align="center"><img width="80%"  src="https://github.com/TECHMA-Bootcamp-FullStack-Java-Angular/dmb-tsys-Angular-0412-ta38/tree/main/src/assets/captura.png?raw=trueg"  alt="Imagen Ejercicio" /></div>
-
+![image](https://github.com/TECHMA-Bootcamp-FullStack-Java-Angular/dmb-tsys-Angular-0412-ta38/assets/109163247/88bbf85e-67ee-4c12-8a0d-6a6f0d62d917)
 
 ## Rules of use 🤜🏼🤛🏼
 
